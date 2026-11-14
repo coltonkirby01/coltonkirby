@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coltonkirby01.github.io/coltonkirby/sitemap.xml
